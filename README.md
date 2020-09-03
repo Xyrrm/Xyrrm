@@ -1,7 +1,7 @@
 ### Hey! I'm Rico - aka XYROM/Xyrrm 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/XYROM2?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FXyrrm&screen_name=XYROM2)
-[![Discord Server](https://img.shields.io/discord/541292308939800576?color=7289DA&label=Discord&logo=discord&style=for-the-badge](https://discord.gg/pbqhWUt)
+[Discord Server](https://img.shields.io/discord/541292308939800576?color=7289DA&label=Discord&logo=discord&style=for-the-badge](https://discord.gg/pbqhWUt)
 
 
 ## I'm a Student, Developer, and Gamer (of course)!
