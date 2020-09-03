@@ -1,6 +1,6 @@
 ### Hey! I'm Rico - aka XYROM/Xyrrm 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Xyrrm)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FXyrrm&screen_name=Xyrrm)
 
 ## I'm a Student, Developer, and Gamer (of course)!
 
