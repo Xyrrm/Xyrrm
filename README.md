@@ -51,7 +51,7 @@
 ---
 
 ### Github Stats
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Xyrrm&show_icons=true&hide_border=false" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Xyrrm&show_icons=true&hide_border=false&theme=tokyonight" />
 
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://www.youtube.com/channel/UCb6spobO5w2cxr69Z-ZgmvA
