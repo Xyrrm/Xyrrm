@@ -14,10 +14,10 @@
 
 ### Socials:
 
-[<img align="left" alt="Xyrrm | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Xyrrm | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Xyrrm | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Xyrrm | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="Xyrrm | YouTube" width="22px" src="https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png" />][youtube]
+[<img align="left" alt="Xyrrm | Twitter" width="22px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1-1.png" />][twitter]
+[<img align="left" alt="Xyrrm | Instagram" width="22px" src="https://lh3.googleusercontent.com/proxy/jN8AojFI71pZpfsV6BYvvHS3YdTKQf1AVZG21Hy0crgeZtCyCaO8kf2KIjvo-TP-kXcEV0KzIGnhvI-aD77wfECvl-LexzJGDKUFONL6bhW094BAjq7Lz9rBr8kafj5SxbA2yL5o4chbXSlZn00uG3UCst9Q" />][instagram]
+[<img align="left" alt="Xyrrm | Discord" width="22px" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" />][discord]
 
 <br />
 
