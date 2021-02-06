@@ -6,16 +6,15 @@
 
 ## I'm a Student, Developer, and Gamer (of course)!
 
-- 🔭 I’m working on many projects but should probably be doing my homework...
-- 🌱 I’m currently learning Java and Javascript
-- 👯 I want to learn python eventually
-- 🥅 2020 Goals: Survive.
+- 🌱 I’m currently learning, Java, JavaScript, and C++
+- 👯 I want to learn Python eventually
+- 🥅 2021 Goals: Get good.
 - ⚡ Fun fact: I love to and play guitar / drums and know how to solve a rubik's cube
 
 ### Socials:
 
 [<img align="left" alt="Xyrrm | YouTube" width="22px" src="https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png" />][youtube]
-[<img align="left" alt="Xyrrm | Twitter" width="22px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1-1.png" />][twitter]
+[<img align="left" alt="Xyrrm | Twitter" width="22px" src="http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" />][twitter]
 [<img align="left" alt="Xyrrm | Instagram" width="22px" src="https://lh3.googleusercontent.com/proxy/jN8AojFI71pZpfsV6BYvvHS3YdTKQf1AVZG21Hy0crgeZtCyCaO8kf2KIjvo-TP-kXcEV0KzIGnhvI-aD77wfECvl-LexzJGDKUFONL6bhW094BAjq7Lz9rBr8kafj5SxbA2yL5o4chbXSlZn00uG3UCst9Q" />][instagram]
 [<img align="left" alt="Xyrrm | Discord" width="22px" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" />][discord]
 
@@ -39,9 +38,9 @@
 ---
 
 ### Github Stats
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Xyrrm&show_icons=true&hide_border=false&theme=tokyonight" />
+<img align="left" alt="Xyrrm's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Xyrrm&show_icons=true&hide_border=false&theme=tokyonight" />
 
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/XYROM2
 [youtube]: https://www.youtube.com/channel/UCb6spobO5w2cxr69Z-ZgmvA
 [instagram]: https://www.instagram.com/unricov
-[discord]: https://discord.gg/GYkyJxs
+[discord]: https://discord.gg/rdfK4bf
