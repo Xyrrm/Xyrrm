@@ -15,7 +15,7 @@
 
 [<img align="left" alt="Xyrrm | YouTube" width="22px" src="https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png" />][youtube]
 [<img align="left" alt="Xyrrm | Twitter" width="22px" src="http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" />][twitter]
-[<img align="left" alt="Xyrrm | Instagram" width="22px" src="https://lh3.googleusercontent.com/proxy/jN8AojFI71pZpfsV6BYvvHS3YdTKQf1AVZG21Hy0crgeZtCyCaO8kf2KIjvo-TP-kXcEV0KzIGnhvI-aD77wfECvl-LexzJGDKUFONL6bhW094BAjq7Lz9rBr8kafj5SxbA2yL5o4chbXSlZn00uG3UCst9Q" />][instagram]
+[<img align="left" alt="Xyrrm | Instagram" width="22px" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" />][instagram]
 [<img align="left" alt="Xyrrm | Discord" width="22px" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" />][discord]
 
 <br />
