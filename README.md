@@ -1,15 +1,13 @@
 ### Hey! I'm Rico - aka XYROM/Xyrrm 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/XYROM2?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FXyrrm&screen_name=XYROM2)
-[![Discord Server](https://img.shields.io/discord/541292308939800576?color=7289DA&label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/pbqhWUt)
+[![Discord Server](https://img.shields.io/discord/541292308939800576?color=7289DA&label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/rdfK4bf)
 
 
 ## I'm a Student, Developer, and Gamer
 
-- 🌱 I’m currently learning, Java, JavaScript, and C++
-- 👯 I want to learn Python eventually
-- 🥅 2021 Goals: Get good.
-- ⚡ Fun fact: I love to and play guitar / drums and know how to solve a rubik's cube
+- Currently learning, Java, JavaScript, and C++
+- I want to learn Python eventually
 
 ### Socials:
 
