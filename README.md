@@ -4,7 +4,7 @@
 [![Discord Server](https://img.shields.io/discord/541292308939800576?color=7289DA&label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/pbqhWUt)
 
 
-## I'm a Student, Developer, and Gamer (of course)!
+## I'm a Student, Developer, and Gamer
 
 - 🌱 I’m currently learning, Java, JavaScript, and C++
 - 👯 I want to learn Python eventually
