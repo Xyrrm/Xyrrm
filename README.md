@@ -36,7 +36,7 @@
 ---
 
 ### Github Stats
-[![Xyrrm's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyrrm)](https://github.com/anuraghazra/github-readme-stats)
+[![Xyrrm's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyrrm&title_color=ce0037)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/XYROM2
 [youtube]: https://www.youtube.com/channel/UCb6spobO5w2cxr69Z-ZgmvA
