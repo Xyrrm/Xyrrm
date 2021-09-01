@@ -38,7 +38,7 @@
 ### Github Stats
 [![Xyrrm's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyrrm&show_icons=true&title_color=ce0037&text_color=fff&icon_color=ce0037&bg_color=141518&border_radius=20&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-[![Xyrrm's Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=xyrrm&title_color=ce0037&text_color=fff&bg_color=141518&border_radius=20&hide_border=true&card_width=490)](https://github.com/anuraghazra/github-readme-stats)
+[![Xyrrm's Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=xyrrm&title_color=ce0037&text_color=fff&bg_color=141518&border_radius=20&hide_border=true&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/XYROM2
 [youtube]: https://www.youtube.com/channel/UCb6spobO5w2cxr69Z-ZgmvA
