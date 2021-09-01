@@ -36,7 +36,7 @@
 ---
 
 ### Github Stats
-<img align="left" alt="Xyrrm's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Xyrrm&show_icons=true&hide_border=false&theme=tokyonight" />
+[![Xyrrm's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyrrm)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/XYROM2
 [youtube]: https://www.youtube.com/channel/UCb6spobO5w2cxr69Z-ZgmvA
